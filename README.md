@@ -8,3 +8,6 @@ occurrence of Accident is about 3%. The above details show how the Accidents are
 development of Indian Economy. For the same, it was proposed to generate “Accident prediction
 Model” for the High Speed Corridors in India and to work out the loss suffered due to the
 Accidents by giving a suitable rate for each type of Accidents.
+
+
+<b>Applied Concepts: Machine Learning, Regression<br>Technologies Used: python, pandas, sklearn, numpy.</b>
